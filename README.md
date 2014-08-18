@@ -30,6 +30,8 @@ Live Demos of ServiceStack Apps
 
 > Upload Apache HTTP Benchmarks to visualize, analyze and export their results. Includes Integration with Glimpe, DotNetOpenAuth, FineUploader, DotNetZip and Highcharts.js. 
 
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/httpbenchmarks-02.png)](https://httpbenchmarks.servicestack.net)
+
 [![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/httpbenchmarks.png)](https://httpbenchmarks.servicestack.net)
 
 #### Features 
