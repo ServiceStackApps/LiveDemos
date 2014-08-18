@@ -34,6 +34,7 @@ Live Demos of ServiceStack Apps
 
 #### Features 
 
+  - [https://github.com/ServiceStackApps/HttpBenchmarks/blob/master/src/BenchmarksAnalyzer/Global.asax.cs#L40-L49](Interchangeable OrmLite PostgreSql and Sqlite)
   - Multiple Authentication, [Credentials and OAuth Providers](https://github.com/ServiceStackApps/HttpBenchmarks#authentication)
   - [Glimpse Integration](https://github.com/ServiceStackApps/HttpBenchmarks#setting-up-glimpse)
   - Minimal JS Deps with [Really Simple MV Pattern](https://github.com/ServiceStackApps/HttpBenchmarks#minimal-javascript-dependencies)
@@ -87,6 +88,7 @@ Live Demos of ServiceStack Apps
 
  - [AutoQuery](https://github.com/ServiceStack/ServiceStack/wiki/Auto-Query)
  - [StackApis AutoQuery Service](https://github.com/ServiceStackApps/StackApis#stackapis-autoquery-service)
+ - [OrmLite Sqlite](https://github.com/ServiceStack.OrmLite)
 
 ## [Imgur](https://github.com/ServiceStackApps/Imgur)
 
@@ -132,6 +134,7 @@ Live Demos of ServiceStack Apps
 
 #### Features
 
+ - [OrmLite Sqlite](https://github.com/ServiceStack.OrmLite)
  - [Runs Everywhere](http://razor.servicestack.net/#runs-everywhere)
    - [Any ASP.NET host](https://github.com/ServiceStackApps/RazorRockstars/tree/master/src/RazorRockstars.WebHost)
    - [A Stand-alone, self-hosted HttpListener](https://github.com/ServiceStackApps/RazorRockstars/tree/master/src/RazorRockstars.SelfHost)
@@ -189,6 +192,7 @@ Live Demos of ServiceStack Apps
 
 #### Features
 
+ - [OrmLite Sqlite](https://github.com/ServiceStack.OrmLite)
  - [Multiple automatic built-in Content-Types](http://northwind.servicestack.net/default.htm)
  - [Custom Media Types - Adding vcard format](http://northwind.servicestack.net/vcard-format.htm)
  - [1 CachedService](https://github.com/ServiceStackApps/Northwind/blob/master/src/Northwind/Northwind.ServiceInterface/CachedServices.cs)
