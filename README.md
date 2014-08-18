@@ -36,7 +36,7 @@ Live Demos of ServiceStack Apps
 
 #### Features 
 
-  - [https://github.com/ServiceStackApps/HttpBenchmarks/blob/master/src/BenchmarksAnalyzer/Global.asax.cs#L40-L49](Interchangeable OrmLite PostgreSql and Sqlite)
+  - [Interchangeable OrmLite PostgreSql and Sqlite](https://github.com/ServiceStackApps/HttpBenchmarks/blob/master/src/BenchmarksAnalyzer/Global.asax.cs#L40-L49)
   - Multiple Authentication, [Credentials and OAuth Providers](https://github.com/ServiceStackApps/HttpBenchmarks#authentication)
   - [Glimpse Integration](https://github.com/ServiceStackApps/HttpBenchmarks#setting-up-glimpse)
   - Minimal JS Deps with [Really Simple MV Pattern](https://github.com/ServiceStackApps/HttpBenchmarks#minimal-javascript-dependencies)
