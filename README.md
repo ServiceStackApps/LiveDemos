@@ -104,18 +104,6 @@ Live Demos of ServiceStack Apps
  - [1 ServicStack back-end .cs file](https://github.com/ServiceStackApps/Imgur/blob/master/src/Imgur/Global.asax.cs)
 
 
-## [Social Bootstrap API](https://github.com/ServiceStackApps/SocialBootstrapApi)
-
-> Backbone.js-based Single Page Twitter Client App built integrating with ASP.NET MVC and showcasing multiple Auth Providers enabled in a Single App
-
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/bootstrapapi.png)](http://bootstrapapi.servicestack.net)
-
-#### Features
-
- - [MVC Integration](https://github.com/ServiceStack/ServiceStack/wiki/Mvc-integration)
- - [Multiple Auth Providers](https://github.com/ServiceStack/ServiceStack/wiki/Authentication-and-authorization)
-
-
 ## [Todos](https://github.com/ServiceStackApps/Todos)
 
 > Backbone.js Todo App powered by a C# Redis Client back-end
@@ -150,6 +138,17 @@ Live Demos of ServiceStack Apps
  - [Smart View Pages](http://razor.servicestack.net/#smart-views)
  - [Built-in Markdown](http://razor.servicestack.net/#markdown)
  - [Optimized for developer productivity](http://razor.servicestack.net/#optimized-for-dev)
+
+## [Social Bootstrap API](https://github.com/ServiceStackApps/SocialBootstrapApi)
+
+> Backbone.js-based Single Page Twitter Client App built integrating with ASP.NET MVC and showcasing multiple Auth Providers enabled in a Single App
+
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/bootstrapapi.png)](http://bootstrapapi.servicestack.net)
+
+#### Features
+
+ - [MVC Integration](https://github.com/ServiceStack/ServiceStack/wiki/Mvc-integration)
+ - [Multiple Auth Providers](https://github.com/ServiceStack/ServiceStack/wiki/Authentication-and-authorization)
 
 ## [Redis Admin UI](https://github.com/ServiceStackApps/RedisAdminUI)
 
