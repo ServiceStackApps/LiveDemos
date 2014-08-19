@@ -5,7 +5,7 @@ Live Demos of ServiceStack Apps
 
 ## [Chat](https://github.com/ServiceStackApps/Chat)
 
-> Feature rich Single Page Chat App, showcasing ServiceStack's Server Events in <170 lines of JavaScript
+> Feature rich Single Page Chat App, showcasing Server Events support in 170 lines of JavaScript!
 
 [![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/chat.png)](http://chat.servicestack.net)
 
