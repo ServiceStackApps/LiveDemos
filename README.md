@@ -209,3 +209,29 @@ Live Demos of ServiceStack Apps
 #### Features
 
  - [Markdown Razor](https://github.com/ServiceStack/ServiceStack/wiki/Markdown-Razor)
+
+----
+
+## [ServiceStack.UseCases](https://github.com/ServiceStack/ServiceStack.UseCases)
+
+We're also developing single-purpose applications showcasing single use-cases at: 
+
+  - Custom Authentication and [Integration with ASP.NET](https://github.com/ServiceStack/ServiceStack.UseCases/tree/master/CustomAuthentication)
+  - Custom Authentication and [Integration with ASP.NET MVC](https://github.com/ServiceStack/ServiceStack.UseCases/tree/master/CustomAuthenticationMvc)
+  - [Multi Hello World](https://github.com/ServiceStack/ServiceStack.UseCases/blob/master/HelloWorld/Global.asax.cs)- Different ways to say Hello, with built-in Content-Types, text, html and generating a dynamic image
+  - [Reusability](https://github.com/ServiceStack/ServiceStack.UseCases/tree/master/Reusability) - showcasing how you can re-use the same services inside MQ hosts to provide instant response times and transparent parallel execution
+  - [Poco Power](https://github.com/ServiceStack/ServiceStack.UseCases/blob/master/PocoPower/Program.cs) - Showing how you can re-use the same POCOs in all ServiceStack client libraries. From maintaing complex types in Web.config to creating DB tables with OrmLite to calling 3rd Party twitter and GitHub REST APIs and storing and retrieving them in RDBMS and Redis
+  - [NodeStackProxy](https://github.com/ServiceStack/ServiceStack.UseCases/tree/master/NodeStackProxy) - Use node.js as a front-end proxy to a backend ServiceStack instance on Windows and OSX/Linux
+  - [Swagger Hello World](https://github.com/ServiceStack/ServiceStack.UseCases/tree/master/SwaggerHelloWorld) - Simple service with Swagger integration and features enabled
+  - [WebApi Products Example](https://github.com/ServiceStack/ServiceStack.UseCases/tree/master/WebApi.ProductsExample) - Showcase the differences rewriting WebApi products into a ServiceStack service
+
+## [Starter Templates](https://github.com/ServiceStack/ServiceStack.Examples/tree/master/src/StarterTemplates)
+
+Different working starting templates for popular configurations of ServiceStack:
+
+  - [At custom path, like  /api](https://github.com/ServiceStack/ServiceStack.Examples/tree/master/src/StarterTemplates/CustomPath40)
+  - [At / root path](https://github.com/ServiceStack/ServiceStack.Examples/tree/master/src/StarterTemplates/RootPath40)
+  - [A stand-alone HttpListener Console AppHost](https://github.com/ServiceStack/ServiceStack.Examples/tree/master/src/StarterTemplates/ConsoleAppHost)
+  - [A Windows Service AppHost](https://github.com/ServiceStack/ServiceStack.Examples/tree/master/src/StarterTemplates/WinServiceAppHost)
+
+Many of these Starter template are included in [ServiceStackVS VS.NET Extension](https://github.com/ServiceStack/ServiceStack/wiki/Creating-your-first-project).
