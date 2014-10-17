@@ -79,6 +79,19 @@ Live Demos of ServiceStack Apps
   - [Integration Tests](https://github.com/ServiceStackApps/EmailContacts#integration-tests)
   - [Unit Tests](https://github.com/ServiceStackApps/EmailContacts#unit-tests)
 
+## [MVC](https://github.com/ServiceStack/ServiceStack/wiki/ServiceStack-Integration)
+
+> Simple demo showcasing integration with ServiceStack and authentication from ASP.NET MVC
+
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/mvc.png)](http://mvc.servicestack.net)
+
+#### Features
+
+  - [ServiceStack Integration with MVC](https://github.com/ServiceStack/ServiceStack/wiki/ServiceStack-Integration)
+  - [Authentication and Authorization](https://github.com/ServiceStack/ServiceStack/wiki/Authentication-and-authorization)
+  - [JS Utils and Forms AutoBinding](https://github.com/ServiceStack/ServiceStack/wiki/ss-utils.js-JavaScript-Client-Library)
+
+> Demo for ServiceStack with ASP.NET WebForms available at [webforms.servicestack.net](http://webforms.servicestack.net/)
 
 ## [StackApis](https://github.com/ServiceStackApps/StackApis)
 
