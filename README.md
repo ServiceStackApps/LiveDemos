@@ -81,7 +81,7 @@ Live Demos of ServiceStack Apps
 
 ## [MVC](https://github.com/ServiceStack/ServiceStack/wiki/ServiceStack-Integration)
 
-> Simple demo showcasing integration with ServiceStack and authentication from ASP.NET MVC
+> Simple demo showcasing integration and authentication with ServiceStack from ASP.NET MVC
 
 [![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/mvc.png)](http://mvc.servicestack.net)
 
@@ -89,6 +89,15 @@ Live Demos of ServiceStack Apps
 
   - [ServiceStack Integration with MVC](https://github.com/ServiceStack/ServiceStack/wiki/ServiceStack-Integration)
   - [Authentication and Authorization](https://github.com/ServiceStack/ServiceStack/wiki/Authentication-and-authorization)
+    - Twitter
+    - Facebook
+    - GitHub
+    - Google+
+    - Yahoo
+    - LinkedIn
+    - VK
+    - Yandex
+    - Windows Auth
   - [JS Utils and Forms AutoBinding](https://github.com/ServiceStack/ServiceStack/wiki/ss-utils.js-JavaScript-Client-Library)
 
 > Demo for ServiceStack with ASP.NET WebForms available at [webforms.servicestack.net](http://webforms.servicestack.net/)
