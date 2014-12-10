@@ -3,6 +3,24 @@ Live ServiceStack Demos
 
 Live Demos of ServiceStack Apps
 
+## [React Chat](https://github.com/ServiceStackApps/Chat-React)
+
+> React.js port of Chat ServerEvents demo built with React, Reflux and new ReactJS App VS.NET Template
+
+[![React Chat](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/chat-react.png)](http://react-chat.servicestack.net)
+
+#### Features 
+
+ - [Modern ReactJS App Template](https://github.com/ServiceStackApps/Chat-React#modern-reactjs-apps-with-net)
+   - [npm](https://www.npmjs.org/) to manage node.js dependencies (bower, grunt, gulp)
+   - [Bower](http://bower.io/) for managing client dependencies (angular, jquery, bootstrap, etc)
+   - [Grunt](http://gruntjs.com/) as the primary task runner for server, client packaging and deployments
+   - [Gulp](http://gulpjs.com/) used by Grunt to do the heavy-lifting bundling and minification
+ - [Intro guide into React.js](https://github.com/ServiceStackApps/Chat-React#introducing-reactjs)
+ - [Designing a React App](https://github.com/ServiceStackApps/Chat-React#react-components)
+ - [Flux vs Reflux](https://github.com/ServiceStackApps/Chat-React#flux-vs-reflux)
+ - [ReactJS App Deployments with Grunt/Gulp and MS Deploy](https://github.com/ServiceStackApps/Chat-React#reactjs-app-deployments)
+
 ## [Chat](https://github.com/ServiceStackApps/Chat)
 
 > Feature rich Single Page Chat App, showcasing Server Events support in 170 lines of JavaScript!
