@@ -5,7 +5,7 @@ Live Demos of ServiceStack Apps
 
 ## [React Chat](https://github.com/ServiceStackApps/Chat-React)
 
-> React.js port of Chat ServerEvents demo built with React, Reflux and new ReactJS App VS.NET Template
+> React.js port of ServerEvents Chat using React, Reflux and new **ReactJS App** VS.NET Template
 
 [![React Chat](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/chat-react.png)](http://react-chat.servicestack.net)
 
