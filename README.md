@@ -5,7 +5,7 @@ Live Demos of ServiceStack Apps
 
 ## [TechStacks](https://github.com/ServiceStackApps/TechStacks)
 
-> TechStacks is a [AngularJS App](https://github.com/ServiceStack/ServiceStackVS/blob/master/angular-spa.md) that lets you explore TechStacks of popular StartUps using your favorite technologies
+> TechStacks is an [AngularJS App](https://github.com/ServiceStack/ServiceStackVS/blob/master/angular-spa.md) that lets you explore TechStacks of popular StartUps using your favorite tech
 
 [![TechStacks](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/techstacks/screenshots/techstacks.png)](http://techstacks.io)
 
