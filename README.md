@@ -3,7 +3,7 @@ Live ServiceStack Demos
 
 Live Demos of ServiceStack Apps
 
-## [TechStacks](http://techstacks.io)
+## [TechStacks](https://github.com/ServiceStackApps/TechStacks)
 
 [![TechStacks](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/techstacks/screenshots/techstacks.png)](http://techstacks.io)
 
