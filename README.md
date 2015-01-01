@@ -5,9 +5,11 @@ Live Demos of ServiceStack Apps
 
 ## [TechStacks](https://github.com/ServiceStackApps/TechStacks)
 
+> TechStacks is a [AngularJS App](https://github.com/ServiceStack/ServiceStackVS/blob/master/angular-spa.md) that lets you explore TechStacks of popular StartUps using your favorite technologies
+
 [![TechStacks](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/techstacks/screenshots/techstacks.png)](http://techstacks.io)
 
-TechStacks is a modern [AngularJS](https://angularjs.org/) CRUD App that lets you Browse and Add Technology Stacks of popular StartUps. After Signing in you can add your own TechStacks and favorite technologies to create a personalized custom 'feed' to view Websites and Apps built with your favorite programming languages and technologies.
+#### Features 
 
 TechStacks is based on a [Bootstrap template](http://getbootstrap.com) with client-side features:
 
