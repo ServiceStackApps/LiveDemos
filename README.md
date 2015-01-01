@@ -3,11 +3,35 @@ Live ServiceStack Demos
 
 Live Demos of ServiceStack Apps
 
+## [TechStacks](http://techstacks.io)
+
+[![TechStacks](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/techstacks/screenshots/techstacks.png)](http://techstacks.io)
+
+TechStacks is a modern [AngularJS](https://angularjs.org/) CRUD App that lets you Browse and Add Technology Stacks of popular StartUps. After Signing in you can add your own TechStacks and favorite technologies to create a personalized custom 'feed' to view Websites and Apps built with your favorite programming languages and technologies.
+
+TechStacks is based on a [Bootstrap template](http://getbootstrap.com) with client-side features:
+
+ - HTML5 Routing to enable pretty urls, also supports full page reloads and back button support
+ - Same Services supporting both human-readable Slugs or int primary keys
+ - Responsive design supporting iPad Landscape and Portrait modes
+ - Preloading and background data fetching to reduce flicker and maximize responsiveness
+ - [Disqus](https://disqus.com/) commenting system
+ - [Chosen](http://harvesthq.github.io/chosen/) for UX-friendly multi combo boxes
+
+and some of TechStacks back-end features include: 
+
+ - [Twitter and GitHub OAuth Providers](https://github.com/ServiceStack/ServiceStack/wiki/Authentication-and-authorization)
+ - Substitutable [OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) RDBMS [PostgreSQL and Sqlite](https://github.com/ServiceStackApps/TechStacks/blob/875e78910e43d2230f0925b71d5990497216511e/src/TechStacks/TechStacks/AppHost.cs#L49-L56) back-ends
+ - [Auto Query](https://github.com/ServiceStack/ServiceStack/wiki/Auto-Query) for automatic services of RDBMS tables
+ - [RDBMS Sessions and In Memory Caching](https://github.com/ServiceStack/ServiceStack/wiki/Caching)
+ - [Smart Razor Views](http://razor.servicestack.net)
+ - [Fluent Validation](https://github.com/ServiceStack/ServiceStack/wiki/Validation)
+
 ## [React Chat](https://github.com/ServiceStackApps/Chat-React)
 
 > React.js port of ServerEvents Chat using React, Reflux and new **ReactJS App** VS.NET Template
 
-[![React Chat](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/chat-react.png)](http://react-chat.servicestack.net)
+[![React Chat](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/chat-react-multichannels.png)](http://react-chat.servicestack.net?channels=home,work,play)
 
 #### Features 
 
