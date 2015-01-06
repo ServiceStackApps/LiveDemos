@@ -23,6 +23,7 @@ TechStacks is based on a [Bootstrap template](http://getbootstrap.com) with clie
 and some of TechStacks back-end features include: 
 
  - [SEO-optimized, Server HTML generated, read-only version of the website](http://techstacks.io/?html=server)
+   - Dynamically generated [sitemaps.xml](http://techstacks.io/sitemap.xml)
  - Page-level Locking
  - Record and Restore Page Content Versioning
  - [Twitter and GitHub OAuth Providers](https://github.com/ServiceStack/ServiceStack/wiki/Authentication-and-authorization)
