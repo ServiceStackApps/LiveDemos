@@ -3,6 +3,12 @@ Live ServiceStack Demos
 
 Live Demos of ServiceStack Apps
 
+## [AutoQuery Viewer](https://github.com/ServiceStackApps/AutoQueryViewer)
+
+AutoQuery Viewer is a native iPad App that provides an automatic UI for browsing, inspecting and querying any publicly accessible [ServiceStack AutoQuery Service](https://github.com/ServiceStack/ServiceStack/wiki/Auto-Query) from an iPad. 
+
+[![AutoQuery Viewer on AppStore](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/wikis/autoquery/autoqueryviewer-appstore.png)](https://itunes.apple.com/us/app/autoquery-viewer/id968625288?ls=1&mt=8)
+
 ## [TechStacks iOS App](https://github.com/ServiceStackApps/TechStacksApp)
 
 The TechStacks Native iOS App provides a fluid and responsive experience for browsing http://techstacks.io content on iPhones and iPad devices. It takes advantage of the ease-of-use and utility of [ServiceStack's new support for Swift and XCode](https://github.com/ServiceStack/ServiceStack/wiki/Swift-Add-ServiceStack-Reference) for quickly building services-rich iOS Apps. [Get it now free on the AppStore!](https://itunes.apple.com/us/app/techstacks/id965680615?ls=1&mt=8)
