@@ -3,6 +3,20 @@ Live ServiceStack Demos
 
 Live Demos of ServiceStack Apps
 
+## [TechStacks Android App](https://github.com/ServiceStackApps/TechStacksAndroidApp)
+
+To demonstrate [Java Native Types](https://github.com/ServiceStack/ServiceStack/wiki/Java-Add-ServiceStack-Reference) in action we've ported the Swift [TechStacks iOS App](https://github.com/ServiceStackApps/TechStacksApp) to a native Java Android App to showcase the responsiveness and easy-of-use of leveraging [Java Add ServiceStack Reference](https://github.com/ServiceStack/ServiceStack/wiki/Java-Add-ServiceStack-Reference) in Android Projects. 
+
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/release-notes/techstacks-android-app.jpg)](https://github.com/ServiceStackApps/TechStacksAndroidApp)
+
+> [Downloaded for free from the Google Play Store](https://play.google.com/store/apps/details?id=servicestack.net.techstacks)
+
+#### Features
+
+ - [iOS-inspired Data Binding](https://github.com/ServiceStackApps/TechStacksAndroidApp/blob/master/README.md#ios-inspired-data-binding)
+ - [Functional Java Utils](https://github.com/ServiceStackApps/TechStacksAndroidApp/blob/master/README.md#functional-java-utils)
+ - [Images and Custom Binary Requests](https://github.com/ServiceStackApps/TechStacksAndroidApp/blob/master/README.md#images-and-custom-binary-requests)
+
 ## [AutoQuery Viewer](https://github.com/ServiceStackApps/AutoQueryViewer)
 
 AutoQuery Viewer is a native iPad App that provides an automatic UI for browsing, inspecting and querying any publicly accessible [ServiceStack AutoQuery Service](https://github.com/ServiceStack/ServiceStack/wiki/Auto-Query) from an iPad. 
