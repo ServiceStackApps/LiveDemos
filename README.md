@@ -3,6 +3,44 @@ Live ServiceStack Demos
 
 Live Demos of ServiceStack Apps
 
+## Redis React
+
+Redis React is a simple user-friendly UI for browsing data in Redis servers that leverages 
+the navigation and deep-linking benefits of a Web-based UI, the productivity and responsiveness of the 
+[React framework](http://facebook.github.io/react/) 
+and the deep Integration possible from a Native App.
+
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/redis-react/home.png)](http://redisreact.servicestack.net/#/)
+
+> Downloads for [Windows, OSX, Linux and Web](https://github.com/ServiceStackApps/RedisReact#download)
+
+## [React Chat Desktop](https://github.com/ServiceStackApps/ReactChatApps)
+
+A port of 
+[React Chat](https://github.com/ServiceStackApps/Chat-React)
+built with the new 
+[React Desktop Apps](https://github.com/ServiceStackApps/ReactDesktopApps)
+VS.NET template and packaged into a native Desktop App for Windows and OSX.
+It takes advantage of 
+[Server Events](https://github.com/ServiceStack/ServiceStack/wiki/Server-Events) to enable synchronized 
+real-time control of multiple Windows Apps:
+
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/react-desktop-apps/dancing-windows.png)](https://youtu.be/-9kVqdPbqOM)
+
+> Downloads for [Windows, OSX, Linux and Web](https://github.com/ServiceStackApps/ReactChatApps#downloads)
+
+## [React Desktop Apps](https://github.com/ServiceStackApps/ReactDesktopApps)
+
+React Desktop Apps take advantage of the adaptability, navigation and deep-linking benefits of a Web-based UI, the productivity 
+and responsiveness of the [React framework](https://facebook.github.io/react/),
+the performance, rich features and functionality contained in 
+[ServiceStack](https://github.com/ServiceStack/ServiceStack/wiki) and the .NET Framework combined with the native experience and 
+OS Integration possible from a Native Desktop App - all within a single VS .NET template!
+
+![React Desktop Apps](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/gap/react-desktop-splash.png)
+
+> Downloads for [Windows, OSX, Linux and Web](https://github.com/ServiceStackApps/ReactDesktopApps#downloads)
+
 ## [TechStacks Android App](https://github.com/ServiceStackApps/TechStacksAndroidApp)
 
 To demonstrate [Java Native Types](https://github.com/ServiceStack/ServiceStack/wiki/Java-Add-ServiceStack-Reference) in action we've ported the Swift [TechStacks iOS App](https://github.com/ServiceStackApps/TechStacksApp) to a native Java Android App to showcase the responsiveness and easy-of-use of leveraging [Java Add ServiceStack Reference](https://github.com/ServiceStack/ServiceStack/wiki/Java-Add-ServiceStack-Reference) in Android Projects. 
