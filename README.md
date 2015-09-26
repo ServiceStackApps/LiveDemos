@@ -37,7 +37,7 @@ the performance, rich features and functionality contained in
 [ServiceStack](https://github.com/ServiceStack/ServiceStack/wiki) and the .NET Framework combined with the native experience and 
 OS Integration possible from a Native Desktop App - all within a single VS .NET template!
 
-![React Desktop Apps](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/gap/react-desktop-splash.png)
+[![React Desktop Apps](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/gap/react-desktop-splash.png)](https://github.com/ServiceStackApps/ReactDesktopApps)
 
 > Downloads for [Windows, OSX, Linux and Web](https://github.com/ServiceStackApps/ReactDesktopApps#downloads)
 
