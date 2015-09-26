@@ -3,7 +3,7 @@ Live ServiceStack Demos
 
 Live Demos of ServiceStack Apps
 
-## Redis React
+## [Redis React](https://github.com/ServiceStackApps/RedisReact)
 
 Redis React is a simple user-friendly UI for browsing data in Redis servers that leverages 
 the navigation and deep-linking benefits of a Web-based UI, the productivity and responsiveness of the 
