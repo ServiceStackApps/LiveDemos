@@ -31,11 +31,10 @@ real-time control of multiple Windows Apps:
 
 ## [React Desktop Apps](https://github.com/ServiceStackApps/ReactDesktopApps)
 
-React Desktop Apps take advantage of the adaptability, navigation and deep-linking benefits of a Web-based UI, the productivity 
-and responsiveness of the [React framework](https://facebook.github.io/react/),
+React Desktop Apps take advantage of the adaptability, navigation and deep-linking benefits of a Web-based UI, the productivity and responsiveness of the 
+[React framework](https://facebook.github.io/react/),
 the performance, rich features and functionality contained in 
-[ServiceStack](https://github.com/ServiceStack/ServiceStack/wiki) and the .NET Framework combined with the native experience and 
-OS Integration possible from a Native Desktop App - all within a single VS .NET template!
+[ServiceStack](https://github.com/ServiceStack/ServiceStack/wiki) and the .NET Framework combined with the native experience and OS Integration possible from a Native Desktop App - all within a single VS .NET template!
 
 [![React Desktop Apps](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/gap/react-desktop-splash.png)](https://github.com/ServiceStackApps/ReactDesktopApps)
 
