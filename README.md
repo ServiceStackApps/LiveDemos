@@ -338,6 +338,8 @@ and some of TechStacks back-end features include:
 
 #### Features
 
+ - [AutoQuery](https://github.com/ServiceStack/ServiceStack/wiki/Auto-Query)
+   - [AutoQuery.cs](https://github.com/ServiceStackApps/Northwind/blob/master/src/Northwind/Northwind.ServiceModel/AutoQuery.cs)
  - [OrmLite Sqlite](https://github.com/ServiceStack.OrmLite)
  - [Multiple automatic built-in Content-Types](http://northwind.servicestack.net/default.htm)
  - [Custom Media Types - Adding vcard format](http://northwind.servicestack.net/vcard-format.htm)
