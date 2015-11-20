@@ -3,6 +3,22 @@ Live ServiceStack Demos
 
 Live Demos of ServiceStack Apps
 
+## [AWS Apps](http://awsapps.servicestack.net)
+
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/redis-react/home.png)](http://redisreact.servicestack.net/#/)
+
+AWS Apps showcases the ease developing AWS-powered solutions with ServiceStack with 6 existing Live Demos rewritten to use a pure AWS managed backend:
+
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/aws/apps/screenshots/awsapps.png)](http://awsapps.servicestack.net/)
+
+AWS Apps leverages the following AWS back-end technologies:
+
+ - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) for data persistance
+ - [Amazon S3](https://aws.amazon.com/s3/) for file storage
+ - [Amazon SQS](https://aws.amazon.com/sqs/) for background processing of MQ requests 
+ - [Amazon SES](https://aws.amazon.com/ses/) for sending emails
+
+
 ## [Redis React](https://github.com/ServiceStackApps/RedisReact)
 
 Redis React is a simple user-friendly UI for browsing data in Redis servers that leverages 
