@@ -3,6 +3,14 @@ Live ServiceStack Demos
 
 Live Demos of ServiceStack Apps
 
+## [TechStacks Kotlin Android App](https://github.com/ServiceStackApps/TechStacksKotlinApp)
+
+This is a port of the original [Java TechStacks Android App](https://github.com/ServiceStackApps/TechStacksAndroidApp) 
+to a native Android App written in Kotlin to showcase the responsiveness and easy-of-use and productivity 
+of leveraging Kotlin Add ServiceStack Reference in Android Projects.
+
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/release-notes/techstacks-kotlin-app.png)](https://play.google.com/store/apps/details?id=test.servicestack.net.techstackskotlin)
+
 ## [AWS Apps](http://awsapps.servicestack.net)
 
 AWS Apps showcases the ease developing AWS-powered solutions with ServiceStack with 6 existing Live Demos rewritten to use a pure AWS managed backend:
