@@ -3,6 +3,39 @@ Live ServiceStack Demos
 
 Live Demos of ServiceStack Apps
 
+## [Xamarin.Android Chat](https://github.com/ServiceStackApps/AndroidXamarinChat)
+
+Xamarin.Android Chat utilizes the 
+[.NET PCL Server Events Client](https://github.com/ServiceStack/ServiceStack/wiki/C%23-Server-Events-Client)
+to create an Android Chat App connecting to the existing 
+[chat.servicestack.net](http://chat.servicestack.net/) Server Events back-end where it's able to communicate 
+with existing Ajax clients and other connected Android Chat Apps. 
+
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/xamarin-android-server-events.png)](https://www.youtube.com/watch?v=tImAm2LURu0)
+
+> [YouTube Video](https://www.youtube.com/watch?v=tImAm2LURu0) and [AndroidXamarinChat Repo](https://github.com/ServiceStackApps/AndroidXamarinChat)
+
+The example shows you can enable a rich integrated experiences by translating the existing commands into an 
+native Android notifications. It also shows how to use [Xamarin.Auth](https://components.xamarin.com/view/xamarin.auth) 
+to authenticate with ServiceStack using Twitter Auth. 
+
+### [Networked Time Traveller Shape Creator](https://github.com/ServiceStackApps/typescript-redux#example-9---real-time-networked-time-traveller)
+
+A network-enhanced version of the
+[stand-alone Time Traveller Shape Creator](https://github.com/ServiceStackApps/typescript-redux#example-8---time-travelling-using-state-snapshots)
+that allows users to **connect to** and **watch** other users using the App in real-time similar 
+to how users can use Remote Desktop to watch another computer's screen: 
+
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/redux-chrome-safari.png)](http://redux.servicestack.net)
+
+> Live demo: http://redux.servicestack.net
+
+The client code required to enable real-time communication is encapsulated within a single 
+[React Connect component](https://github.com/ServiceStackApps/typescript-redux/blob/master/src/TypeScriptRedux/src/example09/Connect.tsx)
+whilst the server implementation is only comprised of 
+[2 simple Server Event Services](https://github.com/ServiceStackApps/typescript-redux/blob/master/src/TypeScriptRedux/Global.asax.cs)
+that lets users publish their actions to a channel or send a direct message to another User.
+
 ## [TechStacks Kotlin Android App](https://github.com/ServiceStackApps/TechStacksKotlinApp)
 
 This is a port of the original [Java TechStacks Android App](https://github.com/ServiceStackApps/TechStacksAndroidApp) 
