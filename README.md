@@ -3,6 +3,18 @@ Live ServiceStack Demos
 
 Live Demos of ServiceStack Apps
 
+## [React Chat](https://github.com/ServiceStackApps/ReactChat)
+
+React Chat is a port of [ServiceStack Chat](https://github.com/ServiceStackApps/Chat) ES5, jQuery Server Events 
+demo into a [TypeScript](http://www.typescriptlang.org/), [React](http://facebook.github.io/react/) and 
+[Redux](https://github.com/reactjs/redux) App:
+
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/chat-react/screenshot.png)](http://react-chat.servicestack.net/)
+
+> Live Demo: http://react-chat.servicestack.net
+
+Developed using the latest [TypeScript + Redux + JSPM + Gulp](https://github.com/ServiceStackApps/typescript-react-template/) VS.NET Template
+
 ## [Xamarin.Android Chat](https://github.com/ServiceStackApps/AndroidXamarinChat)
 
 Xamarin.Android Chat utilizes the 
