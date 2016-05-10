@@ -3,6 +3,19 @@ Live ServiceStack Demos
 
 Live Demos of ServiceStack Apps
 
+## [Redis GEO](https://github.com/ServiceStackApps/redis-geo)
+
+Redis GEO is a simple example showing how to make use of [Redis 3.2.0 new GEO capabilities](http://antirez.com/news/104):
+
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/redis-geo/redisgeo-screenshot.png)](http://redisgeo.servicestack.net/)
+
+> Live Demo: http://redisgeo.servicestack.net
+
+#### Features
+
+ - [1 Service](https://github.com/ServiceStackApps/redis-geo/blob/master/src/RedisGeo/RedisGeo.ServiceInterface/RedisGeoServices.cs)
+ - [1 default.html](https://github.com/ServiceStackApps/redis-geo/blob/master/src/RedisGeo/RedisGeo/default.html)
+
 ## [React Chat](https://github.com/ServiceStackApps/ReactChat)
 
 React Chat is a port of [ServiceStack Chat](https://github.com/ServiceStackApps/Chat) ES5, jQuery Server Events 
