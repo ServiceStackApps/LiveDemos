@@ -3,6 +3,22 @@ Live ServiceStack Demos
 
 Live Demos of ServiceStack Apps
 
+## [Gistlyn](https://github.com/ServiceStack/Gistlyn)
+
+Gistlyn is a C# Gist IDE for creating, running and sharing stand-alone, executable C# snippets.
+
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/gistlyn/home-screenshot.png)](http://gistlyn.com)
+
+> Live Demo: http://gistlyn.com
+
+#### Features
+
+ - [Collections](http://gistlyn.com/collections)
+ - [Snapshots](http://gistlyn.com/snapshots)
+ - [Add ServiceStack Reference](http://gistlyn.com/add-servicestack-reference)
+ - [Stateless Architecture](https://github.com/ServiceStack/ServiceStack/blob/master/docs/2016/v4.0.62.md#gistlyns-stateless-architecture)
+ - [Downloads for Windows, OSX and Linux](http://gistlyn.com/downloads)
+
 ## [Redis GEO](https://github.com/ServiceStackApps/redis-geo)
 
 Redis GEO is a simple example showing how to make use of [Redis 3.2.0 new GEO capabilities](http://antirez.com/news/104):
