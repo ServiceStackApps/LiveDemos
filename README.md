@@ -19,6 +19,19 @@ Gistlyn is a C# Gist IDE for creating, running and sharing stand-alone, executab
  - [Stateless Architecture](https://github.com/ServiceStack/ServiceStack/blob/master/docs/2016/v4.0.62.md#gistlyns-stateless-architecture)
  - [Downloads for Windows, OSX and Linux](http://gistlyn.com/downloads)
 
+## [Xamarin.Forms TechStacks App](https://github.com/ServiceStackApps/TechStacksXamarin)
+
+Xamarin.Forms TechStacks App for both iOS and Android, sharing UI and ServiceStack C# Client code:
+
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/apps/TechStacksXamForms/video_preview.png)](https://www.youtube.com/watch?v=4ghchU3xKs4)
+
+> YouTube video: https://youtu.be/4ghchU3xKs4
+
+#### Features
+
+ - [C# Add ServiceStack Reference](https://github.com/ServiceStack/ServiceStack/wiki/CSharp-Add-ServiceStack-Reference)
+ - [.NET Service Clients](https://github.com/ServiceStack/ServiceStack/wiki/Clients-overview)
+
 ## [Redis GEO](https://github.com/ServiceStackApps/redis-geo)
 
 Redis GEO is a simple example showing how to make use of [Redis 3.2.0 new GEO capabilities](http://antirez.com/news/104):
