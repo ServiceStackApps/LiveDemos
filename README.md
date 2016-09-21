@@ -461,7 +461,7 @@ and some of TechStacks back-end features include:
 
 > A Content Heavy Ajax site using built just using Markdown Razor
 
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/docs.png)](http://docs.servicestack.net)
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/docs.png)](https://github.com/ServiceStackApps/Docs)
 
 #### Features
 
