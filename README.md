@@ -19,6 +19,23 @@ Gistlyn is a C# Gist IDE for creating, running and sharing stand-alone, executab
  - [Stateless Architecture](https://github.com/ServiceStack/ServiceStack/blob/master/docs/2016/v4.0.62.md#gistlyns-stateless-architecture)
  - [Downloads for Windows, OSX and Linux](http://gistlyn.com/downloads)
 
+## [Swift Package Manager Console App](https://github.com/ServiceStackApps/swift-techstacks-console)
+
+Example of 
+[building a Swift Console App using Swift's Package Manager](https://swift.org/package-manager/#importing-dependencies)
+which leverages [ServiceStack's Swift Client](http://docs.servicestack.net/swift-add-servicestack-reference) support
+and its Swift v3 [SwiftClient](https://github.com/ServiceStack/SwiftClient) Package to call 
+[techstacks.io](http://techstacks.io) Web Services.
+
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/release-notes/swift-logo-banner.jpg)](https://github.com/ServiceStackApps/swift-techstacks-console)
+
+## [Hello Service Fabric](https://github.com/ServiceStackApps/HelloServiceFabric)
+
+Hello World example of running a ServiceStack Self Hosted Service 
+inside [Microsoft's Service Fabric platform](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-overview)
+
+[![](https://raw.githubusercontent.com/ServiceStack/docs/master/docs/images/release-notes/service-fabric-overview.png)](https://github.com/ServiceStackApps/HelloServiceFabric)
+
 ## [Xamarin.Forms TechStacks App](https://github.com/ServiceStackApps/TechStacksXamarin)
 
 Xamarin.Forms TechStacks App for both iOS and Android, sharing UI and ServiceStack C# Client code:
