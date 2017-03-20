@@ -3,6 +3,12 @@ Live ServiceStack Demos
 
 Live Demos of ServiceStack Apps
 
+## [Web, Node.js and React Native ServerEvents Apps](https://github.com/ServiceStackApps/typescript-server-events)
+
+Using TypeScript ServerEvents Client to create real-time Web, node.js server and React Native Mobile Apps:
+
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/typescript-serverevents/typescript-server-events-banner.png)](https://github.com/ServiceStackApps/typescript-server-events)
+
 ## [Gistlyn](https://github.com/ServiceStack/Gistlyn)
 
 Gistlyn is a C# Gist IDE for creating, running and sharing stand-alone, executable C# snippets.
