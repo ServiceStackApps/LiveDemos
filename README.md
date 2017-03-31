@@ -3,6 +3,13 @@ Live ServiceStack Demos
 
 Live Demos of ServiceStack Apps
 
+## [Android Java Chat](https://github.com/ServiceStackApps/AndroidJavaChat)
+
+Java Chat client utilizing [Server Events](http://docs.servicestack.net/java-server-events-client) for real-time notifications and enabling seamless OAuth Sign In's using Facebook, Twitter and Google's native SDKs:
+
+[![](https://raw.githubusercontent.com/ServiceStack/docs/master/docs/images/java/java-android-chat-screenshot-540x960.png)](https://github.com/ServiceStackApps/AndroidJavaChat)
+
+
 ## [Web, Node.js and React Native ServerEvents Apps](https://github.com/ServiceStackApps/typescript-server-events)
 
 Using TypeScript ServerEvents Client to create real-time Web, node.js server and React Native Mobile Apps:
