@@ -1,7 +1,7 @@
 Live ServiceStack Demos
 =======================
 
-Live Demos of ServiceStack Apps
+Live Demos of ServiceStack Apps, for **.NET Core** Live demos go to [github.com/NetCoreApps/LiveDemos](https://github.com/NetCoreApps/LiveDemos).
 
 ## [Android Java Chat](https://github.com/ServiceStackApps/AndroidJavaChat)
 
