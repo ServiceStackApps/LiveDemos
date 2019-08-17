@@ -293,7 +293,7 @@ and some of TechStacks back-end features include:
 
 > Guidance on creating ServiceStack App from Scratch utilizing RabbitMQ support for Emails
 
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/emailcontacts.png)](http://emailcontacts.servicestack.net)
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/emailcontacts.png)](https://github.com/ServiceStackApps/EmailContacts)
 
 #### Features
 
