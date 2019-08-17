@@ -66,9 +66,9 @@ Xamarin.Forms TechStacks App for both iOS and Android, sharing UI and ServiceSta
 
 Redis GEO is a simple example showing how to make use of [Redis 3.2.0 new GEO capabilities](http://antirez.com/news/104):
 
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/redis-geo/redisgeo-screenshot.png)](http://redisgeo.servicestack.net/)
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/redis-geo/redisgeo-screenshot.png)](http://redisgeo.netcore.io/)
 
-> Live Demo: http://redisgeo.servicestack.net
+> Live Demo: http://redisgeo.netcore.io
 
 #### Features
 
@@ -81,9 +81,7 @@ React Chat is a port of [ServiceStack Chat](https://github.com/ServiceStackApps/
 demo into a [TypeScript](http://www.typescriptlang.org/), [React](http://facebook.github.io/react/) and 
 [Redux](https://github.com/reactjs/redux) App:
 
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/chat-react/screenshot.png)](http://react-chat.servicestack.net/)
-
-> Live Demo: http://react-chat.servicestack.net
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/chat-react/screenshot.png)](https://github.com/ServiceStackApps/ReactChat)
 
 Developed using the latest [TypeScript + Redux + JSPM + Gulp](https://github.com/ServiceStackApps/typescript-react-template/) VS.NET Template
 
@@ -110,9 +108,7 @@ A network-enhanced version of the
 that allows users to **connect to** and **watch** other users using the App in real-time similar 
 to how users can use Remote Desktop to watch another computer's screen: 
 
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/redux-chrome-safari.png)](http://redux.servicestack.net)
-
-> Live demo: http://redux.servicestack.net
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/redux-chrome-safari.png)](https://github.com/ServiceStackApps/typescript-redux)
 
 The client code required to enable real-time communication is encapsulated within a single 
 [React Connect component](https://github.com/ServiceStackApps/typescript-redux/blob/master/src/TypeScriptRedux/src/example09/Connect.tsx)
@@ -128,11 +124,11 @@ of leveraging [Kotlin Add ServiceStack Reference](https://github.com/ServiceStac
 
 [![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/release-notes/techstacks-kotlin-app.png)](https://play.google.com/store/apps/details?id=test.servicestack.net.techstackskotlin)
 
-## [AWS Apps](http://awsapps.servicestack.net)
+## AWS Apps
 
 AWS Apps showcases the ease developing AWS-powered solutions with ServiceStack with 6 existing Live Demos rewritten to use a pure AWS managed backend:
 
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/aws/apps/screenshots/awsapps.png)](http://awsapps.servicestack.net/)
+![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/aws/apps/screenshots/awsapps.png)
 
 AWS Apps leverages the following AWS back-end technologies:
 
