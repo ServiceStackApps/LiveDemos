@@ -450,15 +450,15 @@ and some of TechStacks back-end features include:
 
 > Northwind database viewer, showing how to easily expose read and cached view services of an internal dataset with ServiceStack + OrmLite
 
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/northwind.png)](http://northwind.servicestack.net)
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/northwind.png)](http://northwind.netcore.io)
 
 #### Features
 
  - [AutoQuery](https://github.com/ServiceStack/ServiceStack/wiki/Auto-Query)
    - [AutoQuery.cs](https://github.com/ServiceStackApps/Northwind/blob/master/src/Northwind/Northwind.ServiceModel/AutoQuery.cs)
  - [OrmLite Sqlite](https://github.com/ServiceStack.OrmLite)
- - [Multiple automatic built-in Content-Types](http://northwind.servicestack.net/default.htm)
- - [Custom Media Types - Adding vcard format](http://northwind.servicestack.net/vcard-format.htm)
+ - [Multiple automatic built-in Content-Types](http://northwind.netcore.io/default.htm)
+ - [Custom Media Types - Adding vcard format](http://northwind.netcore.io/vcard-format.htm)
  - [1 CachedService](https://github.com/ServiceStackApps/Northwind/blob/master/src/Northwind/Northwind.ServiceInterface/CachedServices.cs)
 
 
