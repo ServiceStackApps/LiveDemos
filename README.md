@@ -90,7 +90,7 @@ Developed using the latest [TypeScript + Redux + JSPM + Gulp](https://github.com
 Xamarin.Android Chat utilizes the 
 [.NET PCL Server Events Client](https://github.com/ServiceStack/ServiceStack/wiki/C%23-Server-Events-Client)
 to create an Android Chat App connecting to the existing 
-[chat.servicestack.net](http://chat.servicestack.net/) Server Events back-end where it's able to communicate 
+[chat.netcore.io](http://chat.netcore.io/) Server Events back-end where it's able to communicate 
 with existing Ajax clients and other connected Android Chat Apps. 
 
 [![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/xamarin-android-server-events.png)](https://www.youtube.com/watch?v=tImAm2LURu0)
@@ -248,7 +248,7 @@ and some of TechStacks back-end features include:
 
 > Feature rich Single Page Chat App, showcasing Server Events support in 170 lines of JavaScript!
 
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/chat.png)](http://chat.servicestack.net)
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/chat.png)](http://chat.netcore.io)
 
 #### Features 
 
@@ -271,9 +271,9 @@ and some of TechStacks back-end features include:
 
 > Upload Apache HTTP Benchmarks to visualize, analyze and export their results. Includes Integration with Glimpe, DotNetOpenAuth, FineUploader, DotNetZip and Highcharts.js. 
 
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/httpbenchmarks-02.png)](https://httpbenchmarks.servicestack.net)
+![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/httpbenchmarks-02.png)
 
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/httpbenchmarks.png)](https://httpbenchmarks.servicestack.net/databases-in-asp-net?id=120)
+![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/httpbenchmarks.png)
 
 #### Features 
 
@@ -324,7 +324,7 @@ and some of TechStacks back-end features include:
 
 > Simple demo showcasing integration and authentication with ServiceStack from ASP.NET MVC
 
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/mvc.png)](http://mvc.servicestack.net)
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/mvc.png)](http://mvc.netcore.io)
 
 #### Features
 
@@ -341,13 +341,11 @@ and some of TechStacks back-end features include:
     - Windows Auth
   - [JS Utils and Forms AutoBinding](https://github.com/ServiceStack/ServiceStack/wiki/ss-utils.js-JavaScript-Client-Library)
 
-> Demo for ServiceStack with ASP.NET WebForms available at [webforms.servicestack.net](http://webforms.servicestack.net/)
-
 ## [StackApis](https://github.com/ServiceStackApps/StackApis)
 
 > AngularJS Single Page App leveraging AutoQuery in <50 lines of JavaScript + 1 AutoQuery DTO 
 
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/stackapis.png)](http://stackapis.servicestack.net)
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/stackapis.png)](http://stackapis.netcore.io)
 
 #### Features
 
@@ -371,7 +369,7 @@ and some of TechStacks back-end features include:
 
 > Backbone.js Todo App powered by a C# Redis Client back-end
 
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/todos.png)](http://todos.servicestack.net)
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/todos.png)](http://todos.netcore.io)
 
 #### Features
 
@@ -406,7 +404,7 @@ and some of TechStacks back-end features include:
 
 > Backbone.js-based Single Page Twitter Client App built integrating with ASP.NET MVC and showcasing multiple Auth Providers enabled in a Single App
 
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/bootstrapapi.png)](http://bootstrapapi.servicestack.net)
+![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/bootstrapapi.png)
 
 #### Features
 
@@ -417,7 +415,7 @@ and some of TechStacks back-end features include:
 
 > Google Closure Admin UI and typed backend services API for redis-server operations
 
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/redisadminui.png)](http://redisadminui.servicestack.net)
+![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/redisadminui.png)
 
 #### Features
 
@@ -428,7 +426,7 @@ and some of TechStacks back-end features include:
 
 > GitHub-like browser with complete remote file management over REST APIs in 1 page of jQuery and 1 FileService.cs
 
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/restfiles.png)](http://restfiles.servicestack.net)
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/restfiles.png)](http://restfiles.netcore.io)
 
 #### Features
 
@@ -439,7 +437,7 @@ and some of TechStacks back-end features include:
 
 > Mini StackOverflow Single Page App built using just ServiceStack + Redis
 
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/redisstackoverflow.png)](http://redisstackoverflow.servicestack.net)
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/redisstackoverflow.png)](http://redisstackoverflow.netcore.io)
 
 #### Features
 
