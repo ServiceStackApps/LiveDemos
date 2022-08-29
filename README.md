@@ -66,9 +66,9 @@ Xamarin.Forms TechStacks App for both iOS and Android, sharing UI and ServiceSta
 
 Redis GEO is a simple example showing how to make use of [Redis 3.2.0 new GEO capabilities](http://antirez.com/news/104):
 
-[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/redis-geo/redisgeo-screenshot.png)](http://redisgeo.netcore.io/)
+[![](https://raw.githubusercontent.com/ServiceStack/Assets/master/img/livedemos/redis-geo/redisgeo-screenshot.png)](http://redis.netcore.io/)
 
-> Live Demo: http://redisgeo.netcore.io
+> Live Demo: http://redis.netcore.io
 
 #### Features
 
